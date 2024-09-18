@@ -1,0 +1,21 @@
+# Ignore file config.properties
+config.properties.ori
+
+# Ignore manifest.mf file
+manifest.mf
+
+# Ignore build.xml file
+build.xml
+
+# Ignore test folder
+test/
+
+# Ignore nbproject folder
+nbproject/
+
+
+# Ignore build folder
+build/
+
+# Ignore dist folder
+dist/
